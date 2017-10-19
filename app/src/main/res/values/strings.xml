@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiSportsView</string>
+    <string name="connected">连接成功</string>
+    <string name="connect">开始连接</string>
+</resources>
